@@ -1,0 +1,16 @@
+Error Codes-
+-1 open virtual disk error
+-2 lseek virtual disk error
+-3 write in virtual disk error
+-4 open actual disk error
+-5 lseek in actual disk file error
+-6 No space to store file in virtual disk error
+-7 read error in Actual disk file
+-8 write error in actual disk file
+-9 File not found on virtual disk
+-10 open “log.txt” error 
+-11 Accessed block exceeds total blocks in virtual disk 
+-12 file copied from/into actual disk is not same as the file copied from/into  virtual disk
+-13 Duplicate file error (file you want to copy into  virtual disk is already present in virtual disk)
+-14 memory allocation error
+
